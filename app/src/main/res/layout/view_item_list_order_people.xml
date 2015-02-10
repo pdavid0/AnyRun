@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:padding="16dp"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <com.wci.android.anyrun.views.CFontTv
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:text="Philippe"
+        android:textSize="22sp"
+        android:textColor="@color/default_primary_color"
+        android:layout_height="wrap_content"/>
+
+    <com.wci.android.anyrun.views.CFontTv
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:text="medium double-double"
+        android:textSize="18sp"
+        android:textColor="@color/default_primary_color"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anyrun?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_url">http://localhost:3000</string>
+    <string name="login_error_format">Sorry, login didn\'t work bucause : %s</string>
+    <string name="firebase_url">https://tims4team.firebaseio.com/</string>
+</resources>
